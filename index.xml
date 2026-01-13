@@ -3,6 +3,13 @@
 &lt;summary&gt;Campaigns&lt;/summary&gt;
 
 
+ &lt;ul class="blog-posts"&gt;
+
+ &lt;li&gt;
+ No posts yet
+ &lt;/li&gt;
+
+ &lt;/ul&gt;
 
 
 &lt;/details&gt;
@@ -11,6 +18,13 @@
 &lt;summary&gt;Original Content&lt;/summary&gt;
 
 
+ &lt;ul class="blog-posts"&gt;
+
+ &lt;li&gt;
+ No posts yet
+ &lt;/li&gt;
+
+ &lt;/ul&gt;
 
 
 &lt;/details&gt;</description><content:encoded><![CDATA[<p>Actual plays and original content relating to solo tabletop play.</p>
@@ -18,6 +32,13 @@
 <summary>Campaigns</summary>
 
 
+  <ul class="blog-posts">
+
+    <li>
+      No posts yet
+    </li>
+
+  </ul>
 
 
 </details>
@@ -26,6 +47,13 @@
 <summary>Original Content</summary>
 
 
+  <ul class="blog-posts">
+
+    <li>
+      No posts yet
+    </li>
+
+  </ul>
 
 
 </details>
@@ -34,6 +62,13 @@
 &lt;summary&gt;Short Stories&lt;/summary&gt;
 
 
+ &lt;ul class="blog-posts"&gt;
+
+ &lt;li&gt;
+ No posts yet
+ &lt;/li&gt;
+
+ &lt;/ul&gt;
 
 
 &lt;/details&gt;
@@ -42,6 +77,13 @@
 &lt;summary&gt;Long Stories&lt;/summary&gt;
 
 
+ &lt;ul class="blog-posts"&gt;
+
+ &lt;li&gt;
+ No posts yet
+ &lt;/li&gt;
+
+ &lt;/ul&gt;
 
 
 &lt;/details&gt;</description><content:encoded><![CDATA[<p>All one-off and multi-post stories that have been posted here so far.</p>
@@ -49,14 +91,28 @@
 <summary>Short Stories</summary>
 
 
+  <ul class="blog-posts">
+
+    <li>
+      No posts yet
+    </li>
+
+  </ul>
 
 
 </details>
 <hr>
 <details>
-<summary>Long  Stories</summary>
+<summary>Long Stories</summary>
 
 
+  <ul class="blog-posts">
+
+    <li>
+      No posts yet
+    </li>
+
+  </ul>
 
 
 </details>
@@ -69,7 +125,7 @@ I made this blog to get into the habit of writing more things.</p>
 <li>Solo tabletop RPG sessions and related posts</li>
 </ul>
 <p>Stick around if you&rsquo;re interested.</p>
-]]></content:encoded></item><item><title/><link>https://via-dev.github.io/goats-tower/drafts/hole/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://via-dev.github.io/goats-tower/drafts/hole/</guid><description/><content:encoded></content:encoded></item><item><title/><link>https://via-dev.github.io/goats-tower/drafts/wizards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://via-dev.github.io/goats-tower/drafts/wizards/</guid><description/><content:encoded></content:encoded></item><item><title/><link>https://via-dev.github.io/goats-tower/pages/solo-archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://via-dev.github.io/goats-tower/pages/solo-archive/</guid><description>&lt;h2 id="is_page-true"&gt;title: Solo Archive
+]]></content:encoded></item><item><title/><link>https://via-dev.github.io/goats-tower/pages/solo-archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://via-dev.github.io/goats-tower/pages/solo-archive/</guid><description>&lt;h2 id="is_page-true"&gt;title: Solo Archive
 link: solo-archive
 published_date: 2025-12-25 19:33
 meta_description: Goat&amp;rsquo;s Solo Archive

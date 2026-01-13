@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Torre do Bode</title><link>https://via-dev.github.io/goats-tower/pt/</link><description>Recent content on Torre do Bode</description><generator>Hugo -- gohugo.io</generator><language>pt-BR</language><copyright>Copyright Goat 2026</copyright><lastBuildDate>Thu, 25 Dec 2025 19:33:00 +0000</lastBuildDate><atom:link href="https://via-dev.github.io/goats-tower/pt/index.xml" rel="self" type="application/rss+xml"/><item><title>Jogando TTRPG Solo</title><link>https://via-dev.github.io/goats-tower/pt/solo-archive/</link><pubDate>Thu, 25 Dec 2025 19:33:00 +0000</pubDate><guid>https://via-dev.github.io/goats-tower/pt/solo-archive/</guid><description>&lt;p&gt;Jogatinas e conteúdo original relacionado a RPG de mesa solo.&lt;/p&gt;
 &lt;details&gt;
-&lt;summary&gt;Sessões&lt;/summary&gt;
+&lt;summary&gt;Campanhas&lt;/summary&gt;
 
 
+ &lt;ul class="blog-posts"&gt;
+
+ &lt;li&gt;
+ Nenhum post ainda
+ &lt;/li&gt;
+
+ &lt;/ul&gt;
 
 
 &lt;/details&gt;
@@ -11,13 +18,27 @@
 &lt;summary&gt;Conteúdo Original&lt;/summary&gt;
 
 
+ &lt;ul class="blog-posts"&gt;
+
+ &lt;li&gt;
+ Nenhum post ainda
+ &lt;/li&gt;
+
+ &lt;/ul&gt;
 
 
 &lt;/details&gt;</description><content:encoded><![CDATA[<p>Jogatinas e conteúdo original relacionado a RPG de mesa solo.</p>
 <details>
-<summary>Sessões</summary>
+<summary>Campanhas</summary>
 
 
+  <ul class="blog-posts">
+
+    <li>
+      Nenhum post ainda
+    </li>
+
+  </ul>
 
 
 </details>
@@ -26,6 +47,13 @@
 <summary>Conteúdo Original</summary>
 
 
+  <ul class="blog-posts">
+
+    <li>
+      Nenhum post ainda
+    </li>
+
+  </ul>
 
 
 </details>
@@ -34,6 +62,13 @@
 &lt;summary&gt;Contos&lt;/summary&gt;
 
 
+ &lt;ul class="blog-posts"&gt;
+
+ &lt;li&gt;
+ Nenhum post ainda
+ &lt;/li&gt;
+
+ &lt;/ul&gt;
 
 
 &lt;/details&gt;
@@ -42,6 +77,13 @@
 &lt;summary&gt;Séries&lt;/summary&gt;
 
 
+ &lt;ul class="blog-posts"&gt;
+
+ &lt;li&gt;
+ Nenhum post ainda
+ &lt;/li&gt;
+
+ &lt;/ul&gt;
 
 
 &lt;/details&gt;</description><content:encoded><![CDATA[<p>Todos os contos pequenos e estórias em série que foram escritas aqui.</p>
@@ -49,6 +91,13 @@
 <summary>Contos</summary>
 
 
+  <ul class="blog-posts">
+
+    <li>
+      Nenhum post ainda
+    </li>
+
+  </ul>
 
 
 </details>
@@ -57,6 +106,13 @@
 <summary>Séries</summary>
 
 
+  <ul class="blog-posts">
+
+    <li>
+      Nenhum post ainda
+    </li>
+
+  </ul>
 
 
 </details>
@@ -69,7 +125,7 @@ Eu fiz esse blog para entrar no hábito de escrever mais.</p>
 <li>Sessões e posts relacionados a RPG de mesa solo.</li>
 </ul>
 <p>Fique se estiver interessado.</p>
-]]></content:encoded></item><item><title/><link>https://via-dev.github.io/goats-tower/pt/drafts/hole/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://via-dev.github.io/goats-tower/pt/drafts/hole/</guid><description/><content:encoded></content:encoded></item><item><title/><link>https://via-dev.github.io/goats-tower/pt/drafts/wizards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://via-dev.github.io/goats-tower/pt/drafts/wizards/</guid><description/><content:encoded></content:encoded></item><item><title/><link>https://via-dev.github.io/goats-tower/pt/pages/solo-archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://via-dev.github.io/goats-tower/pt/pages/solo-archive/</guid><description>&lt;h2 id="is_page-true"&gt;title: Solo Archive
+]]></content:encoded></item><item><title/><link>https://via-dev.github.io/goats-tower/pt/pages/solo-archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://via-dev.github.io/goats-tower/pt/pages/solo-archive/</guid><description>&lt;h2 id="is_page-true"&gt;title: Solo Archive
 link: solo-archive
 published_date: 2025-12-25 19:33
 meta_description: Goat&amp;rsquo;s Solo Archive
